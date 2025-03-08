@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeNotesApp2", "CoffeeNotesApp2.csproj", "{87AC4994-7107-AD1D-29FF-A0CCCE4B9E9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87AC4994-7107-AD1D-29FF-A0CCCE4B9E9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87AC4994-7107-AD1D-29FF-A0CCCE4B9E9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87AC4994-7107-AD1D-29FF-A0CCCE4B9E9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87AC4994-7107-AD1D-29FF-A0CCCE4B9E9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42217CC4-6C12-49C7-82FE-7463DF75143F}
+	EndGlobalSection
+EndGlobal
